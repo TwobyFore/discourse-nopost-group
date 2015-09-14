@@ -1,0 +1,1 @@
+# discourse-nopost-group
