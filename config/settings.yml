@@ -1,0 +1,4 @@
+cant_create_post:
+  cant_create_post_group:
+    default: ''
+    client: ''

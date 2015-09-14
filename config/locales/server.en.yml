@@ -1,0 +1,3 @@
+en:
+  site_settings:
+    cant_create_post_group: "Name of the group whos members can't create or reply posts"
